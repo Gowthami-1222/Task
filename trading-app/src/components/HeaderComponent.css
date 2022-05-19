@@ -1,0 +1,27 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'regular';
+    color: white;
+    background-color:rgb(17, 14, 37);
+}
+
+.Header .shareBtn .btn1 {
+    position: absolute;
+    background-color: rgba(177, 113, 237, 0.525);
+    color: white;
+    right: 20px;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+
+.Header .customizeBtn .btn2 {
+    position: absolute;
+    right: 150px;
+    background-color: rgba(177, 113, 237, 0.525);
+    color: white;
+    padding: 10px;
+    border: none;
+    outline: none;
+}

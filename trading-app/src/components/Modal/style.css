@@ -1,0 +1,70 @@
+.modal-content{
+    color: white;
+    background: #1b2356;
+}
+.modal-body{
+    border-style: solid;
+    padding:20px;
+    background-color: #333B6F;
+    margin: 4px;
+    height: auto;
+    width: 99%;
+    color: #92a8d1;
+    border:1px solid black;
+    height: 500px;
+    overflow-y: auto;
+    ;
+
+
+}
+
+.btn btn-danger{
+    color:white;
+
+}
+
+
+.popup_table h5{
+    padding: 20px;
+}
+
+.popupBackground {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 800px;
+    height: auto;
+    background: #1b2356;
+    color: white;
+    padding: 8px;
+}
+
+.popup_table li{
+    list-style: none;
+    padding: 6px 8px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #333B6F;
+    margin: 4px;
+    height: auto;
+    width: 90%;
+   
+}
+   
+.popupClose{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color:white ;
+}
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        color: white;
+       
+    }
+
+    
